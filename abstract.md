@@ -1,1 +1,1 @@
-Dit submodel is onderdeel van de [ontologie Inkomen](https://vng-realisatie.github.io/Ontologie-Inkomen/).
+Dit is de overzichtpagina van de ontologie inkomen. [ontologie Inkomen](https://vng-realisatie.github.io/Ontologie-Inkomen/).
